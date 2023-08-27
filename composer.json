@@ -1,0 +1,17 @@
+{
+    "name": "hurlus/tools",
+    "description": "Hurlus lib, convert TEI sources in export formats",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Frédéric Glorieux",
+            "email": "frederic.glorieux@fictif.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "oeuvres/teinte": "dev-main"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
+}
